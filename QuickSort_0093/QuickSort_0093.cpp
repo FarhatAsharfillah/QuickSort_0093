@@ -121,3 +121,8 @@ int main()
 
             system("pause");
             system("cIs");
+
+        } while (true);
+
+        return 0;
+    }
